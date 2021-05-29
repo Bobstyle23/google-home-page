@@ -5,7 +5,12 @@ body {
 .search-area {
   display: flex;
   justify-content: center;
-  align-content: center;
+  align-items: center;
+}
+
+.navbar {
+  display: block;
+  text-align: center;
 }
 
 .nav-img {
@@ -24,6 +29,7 @@ body {
   padding: 10px;
   text-decoration: none;
   color: black;
+  margin: 2px;
 
   &:hover {
     text-decoration: underline;
