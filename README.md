@@ -1,0 +1,1 @@
+This project is about building that foundation about HTML and CSS. I am aware of HTML and CSS already but repeating time by time is my forte even if its basic things. In this project i would like to create googles home page.
